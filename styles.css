@@ -48,8 +48,7 @@
     text-align: justify;
 }
 .caja-pregunta{
-    padding: 2%;
-    display: block;
+    padding: 5%;
     border: groove;
     background-color:rgb(2, 79, 105);
 }
@@ -58,7 +57,8 @@
     text-align: left;
 }
 .pregunta-item{
-    padding-bottom: 5%;
+    padding: 5%;
+
 }
 .secciones{
     text-align: center;
@@ -143,5 +143,8 @@ footer{
     }
     .slider{
         width: 150%;
+    }
+    *{
+        font-size: 20px;
     }
 }
