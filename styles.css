@@ -45,7 +45,7 @@
     display:flex;
     color: aliceblue;
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
 }
 .caja-pregunta{
     padding: 5%;
@@ -114,7 +114,7 @@
 .nosotros{
     font-size: 30px;
     padding:20%;
-    text-align: justify;
+    text-align: center;
     background-color:rgb(2, 79, 105);
 }
 .secciones-titulo{
